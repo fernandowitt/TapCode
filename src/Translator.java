@@ -73,11 +73,11 @@ public class Translator {
 		inAcentos.put("Ü", ".... ..... ");
 		inAcentos.put("Ũ", ".... ..... ");
 
-		inLetras.put("Ý", "..... .... ");
-		inLetras.put("Ỳ", "..... .... ");
-		inLetras.put("Ŷ", "..... .... ");
-		inLetras.put("Ỹ", "..... .... ");
-		inLetras.put("Ÿ", "..... .... ");
+		inAcentos.put("Ý", "..... .... ");
+		inAcentos.put("Ỳ", "..... .... ");
+		inAcentos.put("Ŷ", "..... .... ");
+		inAcentos.put("Ỹ", "..... .... ");
+		inAcentos.put("Ÿ", "..... .... ");
 		
 		outLinhas.put(".", colLin1);
 		outLinhas.put("..", colLin2);
